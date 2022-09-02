@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+#container{
+    border: 1px solid burlywood;
+    padding: 40px;
+    margin: 0 auto;
+    width: 900px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+#idTobutton{
+    background-color: seagreen;
+    color: white;
+    border: none;
+    padding: 13px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 380px;
+    margin-bottom: 30px;
+}
+#generateImages{
+    /* outline: 2px solid orange; */
+    border: 2px solid orange;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+img{
+    outline: 2px solid crimson;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
